@@ -1,0 +1,14 @@
+{
+    "name": "vtardia/foreman-php-yosemite",
+    "description": "A sample Foreman setup that works on OSX Yosemite with the default Apache/PHP.",
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "~56.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vito Tardia",
+            "email": "vito@tardia.me"
+        }
+    ]
+}

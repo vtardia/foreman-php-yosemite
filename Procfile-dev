@@ -1,0 +1,2 @@
+web: dev/apache2.sh
+worker: php bin/worker.php

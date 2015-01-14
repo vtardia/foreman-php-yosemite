@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule foo index.php [L]
